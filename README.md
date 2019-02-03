@@ -1,5 +1,5 @@
 # Task for Fuero
-## Single page aplication
+## Single page application
 ### React.js, Redux, Bootstrap.
 #### How to run it:
 
