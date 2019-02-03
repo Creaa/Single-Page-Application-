@@ -1,0 +1,23 @@
+.menu-list,
+a,
+.Collapsible__trigger {
+	cursor: pointer;
+	font-size: 1.0rem;
+	margin-left: 10px;
+	color: #eee;
+}
+
+.collapse-items {
+	list-style: none;
+	padding: 5px;
+}
+
+.menu-item {
+	list-style: none;
+	font-size: 1rem;
+	padding: 3px;
+}
+
+.nav-link {
+	padding: 0;
+}

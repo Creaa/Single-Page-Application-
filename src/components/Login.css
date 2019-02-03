@@ -1,0 +1,11 @@
+body {
+	background-color: #FFF5EE;
+}
+
+.login-form {
+	height: 100vh;
+}
+
+.password-input {
+	margin: 10px;
+}
