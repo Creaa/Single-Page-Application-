@@ -15,4 +15,4 @@ Go to the backend folder and run "$ dotnet backend.dll" - (you must have dotnet 
 You should see the message about listening on port 5000
 
 ### Run the App
-Go to the main folder and run "$ npm run"
+Go to the main folder and run "$ npm start"
