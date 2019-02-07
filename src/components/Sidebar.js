@@ -18,7 +18,7 @@ class Sidebar extends Component {
 		let itemsWithCollapseChilds = ["Statistics", "Reports", "Overview"];
 		let childItemsToDisplay = ["Tests", "Devices", "Builds", "Services", "Projects"];
 		return (
-			<div className="col-xl-2 col-lg-2 col-md-3 col-sm-3 col-5">
+			<div className="col-xl-1 col-lg-2 col-md-3 col-sm-3 col-5">
 				<ul className="nav bg-dark d-flex flex-column section-menu align-items-start">
 					{allItemsToDisplay.map((el1, key) => {
 						if (itemsWithCollapseChilds.includes(el1)) {

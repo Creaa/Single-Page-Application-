@@ -16,6 +16,10 @@ Go to the backend folder and run:
 "$ dotnet backend.dll 
 - (you must have dotnet environment)
 You should see the message about listening on port 5000
+Credentials to app:
+Login: Fuero
+Password: FrontEndDeveloper!123
+
 
 # Run the App
 Go to the main folder and run.
